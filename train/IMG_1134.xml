@@ -1,0 +1,62 @@
+<annotation>
+	<folder>trafficsigns</folder>
+	<filename>IMG_1134.jpeg</filename>
+	<path>G:\Meine Ablage\Projekte\Self-Driving-Car\Software\ObjectDetection\Datasets\Mini-Traffic-Signs\resized_images\trafficsigns\IMG_1134.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vorfahrt gewähren</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>125</xmin>
+			<ymin>146</ymin>
+			<xmax>168</xmax>
+			<ymax>185</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>rechts halten</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>284</xmin>
+			<ymin>176</ymin>
+			<xmax>335</xmax>
+			<ymax>234</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tempolimit 30</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>366</xmin>
+			<ymin>134</ymin>
+			<xmax>401</xmax>
+			<ymax>168</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>radfahrer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>440</xmin>
+			<ymin>162</ymin>
+			<xmax>483</xmax>
+			<ymax>210</ymax>
+		</bndbox>
+	</object>
+</annotation>

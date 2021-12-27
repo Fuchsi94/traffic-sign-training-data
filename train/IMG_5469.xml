@@ -1,0 +1,50 @@
+<annotation>
+	<folder>trafficsigns</folder>
+	<filename>IMG_5469.jpeg</filename>
+	<path>G:\Meine Ablage\Projekte\Self-Driving-Car\Software\Tensorflow-Object-Detection-API\Images\Datasets\Mini-Traffic-Signs\resized_images\trafficsigns\IMG_5469.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>radfahrer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>341</xmin>
+			<ymin>197</ymin>
+			<xmax>391</xmax>
+			<ymax>245</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>fußgängerüberweg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>193</xmin>
+			<ymin>220</ymin>
+			<xmax>254</xmax>
+			<ymax>278</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tempolimit 50</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>487</xmin>
+			<ymin>216</ymin>
+			<xmax>565</xmax>
+			<ymax>284</ymax>
+		</bndbox>
+	</object>
+</annotation>

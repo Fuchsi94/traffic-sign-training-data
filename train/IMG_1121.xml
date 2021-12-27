@@ -1,0 +1,62 @@
+<annotation>
+	<folder>trafficsigns</folder>
+	<filename>IMG_1121.jpeg</filename>
+	<path>G:\Meine Ablage\Projekte\Self-Driving-Car\Software\ObjectDetection\Datasets\Mini-Traffic-Signs\resized_images\trafficsigns\IMG_1121.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>verbot der einfahrt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>223</xmin>
+			<ymin>165</ymin>
+			<xmax>266</xmax>
+			<ymax>209</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tempolimit 50</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>98</xmin>
+			<ymin>206</ymin>
+			<xmax>169</xmax>
+			<ymax>269</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>verengte fahrbahn</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>329</xmin>
+			<ymin>207</ymin>
+			<xmax>398</xmax>
+			<ymax>269</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>lichtzeichenanlage</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>373</xmin>
+			<ymin>160</ymin>
+			<xmax>426</xmax>
+			<ymax>206</ymax>
+		</bndbox>
+	</object>
+</annotation>

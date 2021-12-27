@@ -1,0 +1,38 @@
+<annotation>
+	<folder>trafficsigns</folder>
+	<filename>IMG_5458.jpeg</filename>
+	<path>G:\Meine Ablage\Projekte\Self-Driving-Car\Software\Tensorflow-Object-Detection-API\Images\Datasets\Mini-Traffic-Signs\resized_images\trafficsigns\IMG_5458.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>parken</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>205</xmin>
+			<ymin>151</ymin>
+			<xmax>277</xmax>
+			<ymax>218</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>vorfahrt gewähren</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>375</xmin>
+			<ymin>181</ymin>
+			<xmax>507</xmax>
+			<ymax>282</ymax>
+		</bndbox>
+	</object>
+</annotation>

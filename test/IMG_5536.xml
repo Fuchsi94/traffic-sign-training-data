@@ -1,0 +1,26 @@
+<annotation>
+	<folder>trafficsigns</folder>
+	<filename>IMG_5536.jpeg</filename>
+	<path>G:\Meine Ablage\Projekte\Self-Driving-Car\Software\Tensorflow-Object-Detection-API\Images\Datasets\Mini-Traffic-Signs\resized_images\trafficsigns\IMG_5536.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fahrtrichtung rechts</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>283</xmin>
+			<ymin>181</ymin>
+			<xmax>361</xmax>
+			<ymax>260</ymax>
+		</bndbox>
+	</object>
+</annotation>
