@@ -1,0 +1,50 @@
+<annotation>
+	<folder>trafficsigns</folder>
+	<filename>IMG_5376.jpeg</filename>
+	<path>G:\Meine Ablage\Projekte\Self-Driving-Car\Software\ObjectDetection\Datasets\Mini-Traffic-Signs\resized_images\trafficsigns\IMG_5376.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tempolimit 30</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>365</xmin>
+			<ymin>141</ymin>
+			<xmax>433</xmax>
+			<ymax>204</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>stop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>335</xmin>
+			<ymin>301</ymin>
+			<xmax>398</xmax>
+			<ymax>365</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>verengte fahrbahn</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>141</xmin>
+			<ymin>187</ymin>
+			<xmax>194</xmax>
+			<ymax>255</ymax>
+		</bndbox>
+	</object>
+</annotation>
